@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZATxjPz4X6rVzbv5Y/fsBlxdoihhVr/RVklA7ME7WH9/LzBlZmAhdZrtC1iDQaNfBX7AwPbSGUZO14nX/N2eQ==",
+  "success": true,
+  "projectFilePath": "/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/WebTrainingRoom.csproj",
+  "expectedPackageFiles": [
+    "/home/glang/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
