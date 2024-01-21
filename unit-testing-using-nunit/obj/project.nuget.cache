@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9+AlKB+16LnqCTJBHFdQWl362T15FwMVB9JRQLCTUhCn+5OlylQBwl7kaTGs7SjZb5S8BVqf1W17xv5uw/dJA==",
+  "success": true,
+  "projectFilePath": "/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/unit-testing-using-nunit.csproj",
+  "expectedPackageFiles": [
+    "/home/glang/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

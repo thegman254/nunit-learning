@@ -1,0 +1,12 @@
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/bin/Debug/net8.0/PrimeService.deps.json
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/bin/Debug/net8.0/PrimeService.dll
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/bin/Debug/net8.0/PrimeService.pdb
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/obj/Debug/net8.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfoInputs.cache
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfo.cs
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/obj/Debug/net8.0/PrimeService.csproj.CoreCompileInputs.cache
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/obj/Debug/net8.0/PrimeService.sourcelink.json
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/obj/Debug/net8.0/PrimeService.dll
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/obj/Debug/net8.0/PrimeService.pdb
+/home/glang/Documents/Github/nunit-learning/unit-testing-using-nunit/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
