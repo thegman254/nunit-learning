@@ -1,0 +1,12 @@
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/bin/Debug/net8.0/WebTrainingRoom.deps.json
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/bin/Debug/net8.0/WebTrainingRoom.dll
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/bin/Debug/net8.0/WebTrainingRoom.pdb
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/obj/Debug/net8.0/WebTrainingRoom.GeneratedMSBuildEditorConfig.editorconfig
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/obj/Debug/net8.0/WebTrainingRoom.AssemblyInfoInputs.cache
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/obj/Debug/net8.0/WebTrainingRoom.AssemblyInfo.cs
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/obj/Debug/net8.0/WebTrainingRoom.csproj.CoreCompileInputs.cache
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/obj/Debug/net8.0/WebTrainingRoom.sourcelink.json
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/obj/Debug/net8.0/WebTrainingRoom.dll
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/obj/Debug/net8.0/refint/WebTrainingRoom.dll
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/obj/Debug/net8.0/WebTrainingRoom.pdb
+/home/glang/Documents/Github/nunit-learning/WTRFolder/WebTrainingRoom/obj/Debug/net8.0/ref/WebTrainingRoom.dll
