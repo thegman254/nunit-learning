@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f3G67PLgXdk90GMzUKBCPOlGZYvlLvFWV4Ytf95L808JNkTvFl0UTbbDtrfSxR8W/dtskdCG/MQQqPaDTscUUg==",
+  "dgSpecHash": "SaHQ36iERIkYbDO78eyf5H1vKIRwBfDRZn1DfQKuahtK6rjsT7afkxPYS721Gh9+i4RxcBpgoFXrAT04SsFLpA==",
   "success": true,
-  "projectFilePath": "/home/glang/Documents/Github/nunit-learning/nunit-learning.csproj",
+  "projectFilePath": "/home/glang/Documents/Github/nunit-learning/Site 1/Site 1.csproj",
   "expectedPackageFiles": [
     "/home/glang/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
   ],

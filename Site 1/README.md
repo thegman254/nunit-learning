@@ -1,2 +1,0 @@
-# nunit-learning
-learning nunit
