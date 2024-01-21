@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QBbqBnWJfEbtoRNVdvUh0eG61h6DlXxZPHw/kz4G87u06J9Cf+BBcRc/3rJ2euT1tNeo5nXhfVGyppkSc5fEhw==",
+  "success": true,
+  "projectFilePath": "/home/glang/Documents/Github/nunit-learning/Site 1/BaseProj/PrimeService/PrimeService.csproj",
+  "expectedPackageFiles": [
+    "/home/glang/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
