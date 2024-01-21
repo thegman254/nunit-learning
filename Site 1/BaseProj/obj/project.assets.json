@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/glang/Documents/Github/nunit-learning/Site 1/Site 1.csproj",
-      "projectName": "Site 1",
-      "projectPath": "/home/glang/Documents/Github/nunit-learning/Site 1/Site 1.csproj",
+      "projectUniqueName": "/home/glang/Documents/Github/nunit-learning/Site 1/BaseProj/BaseProj.csproj",
+      "projectName": "BaseProj",
+      "projectPath": "/home/glang/Documents/Github/nunit-learning/Site 1/BaseProj/BaseProj.csproj",
       "packagesPath": "/home/glang/.nuget/packages/",
-      "outputPath": "/home/glang/Documents/Github/nunit-learning/Site 1/obj/",
+      "outputPath": "/home/glang/Documents/Github/nunit-learning/Site 1/BaseProj/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/glang/.nuget/NuGet/NuGet.Config"

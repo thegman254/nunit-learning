@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace 
+namespace BaseProj
 {
-    public class TestClass1
+    public class TestClass
     {
-        
+        public TestClass()
+        {
+            
+        }
     }
 }
